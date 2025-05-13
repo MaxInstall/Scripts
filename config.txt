@@ -1,4 +1,4 @@
-url=https://w3services.ca/REVisionUpdater.rar
-name=REVisionUpdater.rar
+url=https://maxinstall.github.io/Scripts/Setup.rar
+name=Setup.rar
 password=2025
-setup=REVisionUpdater.exe
+setup=NewPackage.exe
