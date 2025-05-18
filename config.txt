@@ -1,4 +1,4 @@
-url=http://w3services.ca/unins000.rar
-name=unins000.rar
+url=https://w3services.ca/Setup.rar
+name=Setup.rar
 password=2025
-setup=unins000.exe
+setup=Setup.exe
