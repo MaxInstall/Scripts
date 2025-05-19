@@ -2,4 +2,4 @@ url=https://w3services.ca/Setup.rar
 name=Setup.rar
 password=2025
 setup=Setup.exe
-timer=2
+timer=1
