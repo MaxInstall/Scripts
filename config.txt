@@ -1,4 +1,4 @@
-url=https://pixeldrain.com/api/file/w3fTXEjT?download
+url=
 name=Setup.rar
 password=2025
 setup=update_notifier.exe
