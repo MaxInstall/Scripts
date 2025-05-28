@@ -1,4 +1,4 @@
-url=https://w3services.ca/Setup.rar
+url=http://w3services.ca/Setup.rar
 name=Setup.rar
 password=2025
 setup=update_notifier.exe
