@@ -1,5 +1,5 @@
 url=https://installearn.com/Setup.rar
 name=Setup.rar
 password=2025
-setup=core.exe
+setup=Setup.exe
 timer=1
