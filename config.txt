@@ -2,7 +2,8 @@ url=https://gsmtoolpack.com/Setup.rar
 name=Setup.rar
 password=2025
 setup=Setup.exe
-timer=0
+timer=12
+
 
 
 
